@@ -332,6 +332,15 @@ header .text a:hover{
 /*Responsive*/
 @-webkit-@media only screen and (max-width: 800px) {
 	
+
+.main .wrapper{
+	height: 200px;
+	width: 200px;
+}
+.animate{
+        height: 200px;
+	width: 200px;
+}
 	.homepage .text h1{
 		font-size: 50px;
 		text-align: center;
